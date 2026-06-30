@@ -1,24 +1,14 @@
 {
   "meta": {
-    "generated_utc": "2026-06-29T20:56:39Z",
+    "generated_utc": "2026-06-30T21:47:40Z",
     "observed_source": "BOM RMM \u2014 bom.gov.au",
     "forecast_source": "ECMWF IFS open data",
     "eof_source": "MJOcast ERA5 Wheeler-Hendon EOFs",
-    "model_init": "2026-06-29T12:00:00Z",
+    "model_init": "2026-06-30T12:00:00Z",
     "n_observed_days": 120,
     "n_forecast_days": 15
   },
   "observed": [
-    {
-      "date": "19-May-26",
-      "year": 2026,
-      "month": 5,
-      "day": 19,
-      "rmm1": 0.7429,
-      "rmm2": -0.285,
-      "amplitude": 0.7957,
-      "phase": 4
-    },
     {
       "date": "20-May-26",
       "year": 2026,
@@ -408,141 +398,151 @@
       "rmm2": 0.4064,
       "amplitude": 0.5454,
       "phase": 6
+    },
+    {
+      "date": "28-Jun-26",
+      "year": 2026,
+      "month": 6,
+      "day": 28,
+      "rmm1": 0.6113,
+      "rmm2": 0.4777,
+      "amplitude": 0.7759,
+      "phase": 5
     }
   ],
   "forecast": [
     {
-      "date": "2026-06-30",
-      "step_hours": 24,
-      "rmm1": 0.5118,
-      "rmm2": 1.7869,
-      "amplitude": 1.8587,
-      "phase": 6,
-      "phase_label": "6"
-    },
-    {
       "date": "2026-07-01",
-      "step_hours": 48,
-      "rmm1": 0.0528,
-      "rmm2": 1.6813,
-      "amplitude": 1.6821,
-      "phase": 6,
-      "phase_label": "6"
+      "step_hours": 24,
+      "rmm1": -0.0369,
+      "rmm2": 1.7101,
+      "amplitude": 1.7105,
+      "phase": 7,
+      "phase_label": "7"
     },
     {
       "date": "2026-07-02",
-      "step_hours": 72,
-      "rmm1": -0.2787,
-      "rmm2": 1.4635,
-      "amplitude": 1.4898,
+      "step_hours": 48,
+      "rmm1": -0.5161,
+      "rmm2": 1.5606,
+      "amplitude": 1.6437,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-03",
-      "step_hours": 96,
-      "rmm1": -0.4939,
-      "rmm2": 1.3916,
-      "amplitude": 1.4766,
+      "step_hours": 72,
+      "rmm1": -0.6744,
+      "rmm2": 1.4346,
+      "amplitude": 1.5852,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-04",
-      "step_hours": 120,
-      "rmm1": -0.6875,
-      "rmm2": 1.476,
-      "amplitude": 1.6282,
+      "step_hours": 96,
+      "rmm1": -0.7996,
+      "rmm2": 1.3785,
+      "amplitude": 1.5936,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-05",
-      "step_hours": 144,
-      "rmm1": -0.6729,
-      "rmm2": 1.3867,
-      "amplitude": 1.5414,
+      "step_hours": 120,
+      "rmm1": -0.8252,
+      "rmm2": 1.5593,
+      "amplitude": 1.7642,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-06",
-      "step_hours": 168,
-      "rmm1": -0.4957,
-      "rmm2": 1.3439,
-      "amplitude": 1.4324,
+      "step_hours": 144,
+      "rmm1": -0.4567,
+      "rmm2": 1.556,
+      "amplitude": 1.6216,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-07",
-      "step_hours": 192,
-      "rmm1": -0.3608,
-      "rmm2": 1.3163,
-      "amplitude": 1.3649,
+      "step_hours": 168,
+      "rmm1": -0.2853,
+      "rmm2": 1.3774,
+      "amplitude": 1.4067,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-08",
-      "step_hours": 216,
-      "rmm1": -0.0262,
-      "rmm2": 1.2058,
-      "amplitude": 1.2061,
+      "step_hours": 192,
+      "rmm1": -0.0712,
+      "rmm2": 1.3314,
+      "amplitude": 1.3333,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-09",
-      "step_hours": 240,
-      "rmm1": 0.1985,
-      "rmm2": 1.0807,
-      "amplitude": 1.0988,
-      "phase": 6,
-      "phase_label": "6"
+      "step_hours": 216,
+      "rmm1": -0.169,
+      "rmm2": 1.2615,
+      "amplitude": 1.2727,
+      "phase": 7,
+      "phase_label": "7"
     },
     {
       "date": "2026-07-10",
-      "step_hours": 264,
-      "rmm1": 0.1402,
-      "rmm2": 1.2119,
-      "amplitude": 1.22,
-      "phase": 6,
-      "phase_label": "6"
+      "step_hours": 240,
+      "rmm1": -0.4388,
+      "rmm2": 1.512,
+      "amplitude": 1.5744,
+      "phase": 7,
+      "phase_label": "7"
     },
     {
       "date": "2026-07-11",
-      "step_hours": 288,
-      "rmm1": 0.0851,
-      "rmm2": 1.632,
-      "amplitude": 1.6342,
-      "phase": 6,
-      "phase_label": "6"
+      "step_hours": 264,
+      "rmm1": -0.3823,
+      "rmm2": 1.7493,
+      "amplitude": 1.7906,
+      "phase": 7,
+      "phase_label": "7"
     },
     {
       "date": "2026-07-12",
-      "step_hours": 312,
-      "rmm1": -0.0553,
-      "rmm2": 1.8938,
-      "amplitude": 1.8946,
+      "step_hours": 288,
+      "rmm1": -0.378,
+      "rmm2": 1.7306,
+      "amplitude": 1.7714,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-13",
-      "step_hours": 336,
-      "rmm1": -0.2527,
-      "rmm2": 1.8221,
-      "amplitude": 1.8395,
+      "step_hours": 312,
+      "rmm1": -0.3945,
+      "rmm2": 1.3843,
+      "amplitude": 1.4394,
       "phase": 7,
       "phase_label": "7"
     },
     {
       "date": "2026-07-14",
+      "step_hours": 336,
+      "rmm1": -0.7045,
+      "rmm2": 1.1626,
+      "amplitude": 1.3594,
+      "phase": 7,
+      "phase_label": "7"
+    },
+    {
+      "date": "2026-07-15",
       "step_hours": 360,
-      "rmm1": -0.2652,
-      "rmm2": 1.8138,
-      "amplitude": 1.8331,
+      "rmm1": -0.9435,
+      "rmm2": 1.2648,
+      "amplitude": 1.578,
       "phase": 7,
       "phase_label": "7"
     }
